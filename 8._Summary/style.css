@@ -19,14 +19,14 @@
 }
 
 .header__all-menu-items {
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     padding: 0 15%;
 }
 
 .header__menu-item {
     list-style: none;
-    margin: 5px 35px;
+    margin: 5px 0;
     font-size: 13px;
 }
 
